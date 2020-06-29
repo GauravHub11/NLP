@@ -7,4 +7,4 @@ TextBlob is a Python (2 and 3) library for processing textual data. It provides 
 
 
 ## SMS Spam Classifier
-SMS is classic begineer Practice for Natural Language Processing in which we clasify the SMS whether they are Spam or notSpam(Ham).
+SMS Spam Classifier is classic begineer Practice for Natural Language Processing in which we clasify the SMS whether they are Spam or notSpam(Ham).
